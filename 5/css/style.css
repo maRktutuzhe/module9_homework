@@ -1,0 +1,32 @@
+input{
+  margin: 5px;
+}
+
+#btn{
+  width: 170px;
+  margin-left: 5px;
+  background-color: #A0522D;
+  border-radius: 2px;
+  text-transform: upperCase;
+}
+
+#btn:hover{
+  background-color: #8B4513;
+  cursor: pointer;
+}
+
+img{
+  
+  width: 200px;
+  height: 200px;
+}
+.card{
+  display: inline-block;
+  padding-top: 10px;
+  margin: 10px 5px;
+  width: 220px;
+  background: #F5DEB3;
+  border: solid #DEB887 3px;
+  text-align: center;
+  text-transform: upperCase;
+}
