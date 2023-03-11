@@ -1,0 +1,15 @@
+#card{
+  margin: 20px;
+}
+#sub{
+  width: 170px;
+  margin-left: 5px;
+  background-color: #A0522D;
+  border-radius: 2px;
+  text-transform: upperCase;
+}
+
+#sub:hover{
+  background-color: #8B4513;
+  cursor: pointer;
+}
